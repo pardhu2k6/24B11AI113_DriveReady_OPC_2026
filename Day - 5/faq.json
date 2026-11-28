@@ -1,0 +1,21 @@
+{
+  "delivery_area": "We deliver within 5 km of the bakery.",
+  "delivery_fee": "Delivery is Rs 50, free for orders above Rs 1,000.",
+  "payment": "We accept UPI and cash.",
+  "advance": "Orders above Rs 1,000 need a 50% advance by UPI.",
+  "cancellation": "Cancellation is free up to 12 hours before pickup. After that, the advance is not refunded.",
+  "photo_cake": "Photo cakes need 48 hours' notice.",
+  "custom_design": "Custom designs need 48 hours' notice.",
+  "notice": "Regular orders need 24 hours' notice.",
+  "eggless": "All our cakes have eggless versions at the same price.",
+  "plum_allergens": "Plum cake contains nuts and dried fruit.",
+  "other_allergens": "Cupcakes and chocolate cake are nut-free.",
+  "storage": "Keep cakes in the fridge.",
+  "shelf_life": "Eat cakes within 3 days.",
+  "message": "A message on the cake is free, up to 20 letters.",
+  "candles": "Candles are free with every cake.",
+  "discounts": "Bulk-order discounts need the owner's approval.",
+  "pickup": "Pickup is during opening hours.",
+  "weekday_hours": "Monday to Saturday opening hours are 9 am to 8 pm.",
+  "sunday_hours": "Sunday opening hours are 10 am to 6 pm."
+}
